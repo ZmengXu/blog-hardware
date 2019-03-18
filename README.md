@@ -1,2 +1,2 @@
 # blog-hardware
-The sub-blogs blog-iot page: zmengxu.github.io/blog-iot
+A blog about the understanding of integrated circuit hardware
